@@ -1,6 +1,11 @@
 WikiCorpus
 =============
 
+**Aviso**. Este proyecto ya tiene su tiempo y revisándolo me doy cuenta de muchas cosas que se podrían refactorizar. Es normal, ahora tengo conocimientos que antes no, ¡y más ideas! Pero también tengo intereses diferentes.
+Por ello no creo que tenga más cambios que el commit de este aviso. Por supuesto, si alguiente tiene algún interés en este repositorio o quiere desarrollar algo a partir de él, puede comunicarse conmigo.
+
+----
+
 ``WikiCorpus`` es una aplicación para la interfaz de línea de comandos (CLI) que tiene como objetivo la extracción de datos de los proyectos Wikimedia para su posterior análisis.
 
 Esta herramienta está en desarrollo y en estos momentos es parte de un proyecto de investigación de humanidades digitales y estado del patrimonio cultural de Canarias en Wikipedia en español, Wikimedia Commons y Wikidata.
